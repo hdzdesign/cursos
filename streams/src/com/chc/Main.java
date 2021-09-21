@@ -115,7 +115,7 @@ public class Main {
         abcFinter.forEach(System.out::println);
 
         /*
-        Sort : nos ordena la lista de elementos
+        Sort : nos ordena la lista de elementoss
         */
         System.out.println("--------------------------Sorted-----------------------------");
         setUpUser();
